@@ -1,3 +1,3 @@
 # GitHub Intro
 
-Change on RStudio
+Change on RStudio and GitHub.
